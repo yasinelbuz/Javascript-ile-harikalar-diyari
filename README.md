@@ -7,4 +7,11 @@ Başarılar dilerim.
 ## 1. Uygulama
 https://codepen.io/kaypooma/pen/tAfwm?editors=0010
 
+Bilmen gereken methodlar ve özelikler;
+Math.floor()
+Math.random()
+clientWidth
+css()
+innerHTML 
+
 
