@@ -8,7 +8,7 @@ Başarılar dilerim.
 https://codepen.io/kaypooma/pen/tAfwm?editors=0010
 
 Bilmen gereken methodlar ve özelikler;
-Math.floor()
+Math.floor() <br>
 Math.random()
 clientWidth
 css()
