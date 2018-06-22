@@ -4,4 +4,7 @@
 Listeyi güncel tutmaya çalışacağım.
 Başarılar dilerim. 
 
+## 1. Uygulama
+https://codepen.io/kaypooma/pen/tAfwm?editors=0010
+
 
