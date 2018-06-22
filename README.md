@@ -27,6 +27,17 @@ window.scrollTo<br>
 preventDefault()<br>
 offsetTop<br>
 
+## 3. Uygulama
+https://codepen.io/ahmedbeheiry/pen/grGvvj?editors=0010
+
+#### Bilmen gereken methodlar ve özelikler; <br>
+document.querySelector() <br>
+document.getElementById()<br>
+addEventListener()<br>
+window.scrollTo<br>
+preventDefault()<br>
+offsetTop<br>
+
 
 
 
