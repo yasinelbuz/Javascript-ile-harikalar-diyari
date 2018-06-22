@@ -16,3 +16,18 @@ css()<br>
 innerHTML <br>
 
 
+## 2. Uygulama
+https://codepen.io/dudleystorey/pen/pJVVBx?editors=0010
+
+#### Bilmen gereken methodlar ve özelikler; <br>
+document.querySelector() <br>
+document.getElementById()<br>
+addEventListener()<br>
+window.scrollTo<br>
+preventDefault()<br>
+offsetTop<br>
+
+
+
+
+
